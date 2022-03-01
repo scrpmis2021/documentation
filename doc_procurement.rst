@@ -1,5 +1,5 @@
 ============
-Contracts
+Procurement
 ============
 
 Description text.

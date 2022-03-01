@@ -6,9 +6,13 @@ SCRP MIS Documentation
    :maxdepth: 5
    :caption: Contents:
 
-   doc_assets
+   doc_performance_indicators
+   doc_risks_issues
+   doc_es_safeguards
+   doc_procurement
    doc_contracts
    doc_financials
-   doc_procurement
-   doc_risks_issues
+   doc_activity_workplans
+   doc_assets
+   doc_fiduciary_compliance
    doc_smp
