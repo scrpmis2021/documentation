@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'SCRP MIS Documentation'
+copyright = '2021, Federal Government of Somalia'
+author = 'SCRP'
 
 release = '0.1'
 version = '0.1.0'

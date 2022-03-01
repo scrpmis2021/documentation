@@ -28,6 +28,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+docs/source/_build
 develop-eggs/
 dist/
 downloads/
@@ -123,6 +124,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.vscode
 env/
 venv/
 ENV/
