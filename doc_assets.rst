@@ -1,0 +1,6 @@
+============
+Assets
+============
+
+Description text.
+
