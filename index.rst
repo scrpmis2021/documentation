@@ -1,18 +1,17 @@
 ======================
-SCRP MIS Documentation
+SCRP MIS Manual
 ======================
 
 .. toctree::
    :maxdepth: 5
+   :numbered:
    :caption: Contents:
 
-   doc_performance_indicators
-   doc_risks_issues
-   doc_es_safeguards
-   doc_procurement
-   doc_contracts
-   doc_financials
-   doc_activity_workplans
-   doc_assets
-   doc_fiduciary_compliance
-   doc_smp
+   doc_overview
+   doc_mis_features
+   doc_modules
+   doc_troubleshooting
+   doc_maintenance
+   doc_tracking_tools
+   doc_specifications
+   doc_support
