@@ -2,11 +2,15 @@
 MIS Modules
 ============
 
-Description text.
+.. image:: _static/projects.png
+  :width: 800
+  :alt: KoBoToolbox
+
+There are currently 10 modules in the MIS which track and report on various things as
+outlined in the :ref:`doc_overview:Data Collection Platform` section. The modules include:
 
 .. toctree::
-   :maxdepth: 5
-   :caption: Contents:
+   :maxdepth: 1
 
    doc_performance_indicators
    doc_risks_issues
