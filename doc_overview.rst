@@ -13,7 +13,7 @@ as its data collection platform. Together, they offer benefits such as:
 Visualization Platform
 ----------------------
 
-.. image:: _static/financial_1.png
+.. image:: _static/pdo_1.png
   :width: 800
   :alt: Financial Report
 
