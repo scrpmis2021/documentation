@@ -16,4 +16,4 @@ How To Enter Fiduciary Compliance Data
 #. Select the type of report. (IFS / Audit / Support Mission / Safeguard)
 #. Enter report details and upload the report for the the selected period.
 #. Click on submit button to save the record.
-
+#. Validate the record so that it can appear on the dashboard.

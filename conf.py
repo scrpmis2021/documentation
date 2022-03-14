@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'SCRP MIS Documentation'
+project = 'SCRP MIS'
 copyright = '2021, Federal Government of Somalia'
 author = 'SCRP'
 

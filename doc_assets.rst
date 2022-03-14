@@ -15,4 +15,4 @@ How To Enter Fiduciary Compliance Data
 #. Select the reporting date
 #. Enter report details and upload the report for the the selected period.
 #. Click on submit button to save the record.
-
+#. Validate the record so that it can appear on the dashboard.

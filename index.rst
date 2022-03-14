@@ -8,7 +8,9 @@ SCRP MIS Manual
    :caption: Contents:
 
    doc_overview
+   doc_roles
    doc_modules
    doc_maintenance
    doc_tracking_tools
+   doc_faq
    doc_support

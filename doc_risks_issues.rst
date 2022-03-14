@@ -28,3 +28,4 @@ How To Enter Risks/Issues Data
 #. Select the tracking tool you wish to use (Risks/Issues or Lessons Learned)
 #. Fill in the details of the tracking tool chosen. Note that some fields are compulsory.
 #. Click on submit button to save the record.
+#. Validate the record so that it can appear on the dashboard.

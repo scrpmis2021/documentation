@@ -41,3 +41,4 @@ How To Enter E&S Safeguards Data
 
 #. Fill in the details of the tracking tool chosen. Note that some fields are compulsory.
 #. Click on submit button to save the record.
+#. Validate the record so that it can appear on the dashboard.

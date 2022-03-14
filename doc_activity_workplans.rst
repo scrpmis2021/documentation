@@ -16,4 +16,5 @@ How To Enter Activity Work Plan Data
 #. Select the component, indicator level, and indicator.
 #. Key in the activity work plan details for the selected reporting period. Note that some inputs fields are compulsory.
 #. Click on submit button to save the record.
+#. Validate the record so that it can appear on the dashboard.
 

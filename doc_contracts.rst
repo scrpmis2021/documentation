@@ -15,3 +15,4 @@ How To Enter Contract Data
 #. Select the reporting date
 #. Fill in the input fields regarding the contract. Note that some fields are compulsory.
 #. Click on submit button to save the record.
+#. Validate the record so that it can appear on the dashboard.
