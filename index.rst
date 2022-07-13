@@ -14,3 +14,4 @@ SCRP MIS Manual
    doc_tracking_tools
    doc_faq
    doc_support
+   changelog
