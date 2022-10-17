@@ -1,6 +1,0 @@
-========================
-Technical Specifications
-========================
-
-Description text.
-

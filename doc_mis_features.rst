@@ -1,6 +1,0 @@
-==============
-MIS Features
-==============
-
-Description text.
-

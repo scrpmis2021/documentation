@@ -1,5 +1,5 @@
 ==============================
-Security Management Plan (SMP)
+Security Info Tracking Tool
 ==============================
 
 IPs Who Can Access Tracking Tool
