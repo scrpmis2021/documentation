@@ -7,7 +7,7 @@ It tracks the progress of indicators and is submitted as part of the monthly rep
 
 .. raw:: html
 
-    <iframe width="700" height="400" src="http://www.youtube.com/embed/QSkKG5bthSx?rel=0" frameborder="0" allowfullscreen></iframe>
+    <iframe width="700" height="400" src="http://www.youtube.com/embed/ERT1H3oJUn4?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
 This guide shows IPs how to:
