@@ -16,27 +16,29 @@ This guide shows IPs how to:
 - Edit indicator results
 - Delete indicator results
 
-How to Access The Tool
-----------------------
+How to Enter Indicator Results
+------------------------------
 .. image:: _static/login.png
   :width: 800
   :alt: Accessing SCRP IMTT
 
-#. Visit the KoBoToolbox `IMTT URL <https://ee.kobotoolbox.org/x/kuICejSg>`_.
-#. Login by entering the username and password shared by PIU and hit submit button
+IPs should first access the IMTT by:
 
-How to Enter Indicator Results
-------------------------------
+#. Visiting the KoBoToolbox `IMTT URL <https://ee.kobotoolbox.org/x/kuICejSg>`_.
+#. Logging in by entering the username and password shared by PIU and hit submit button
+
 .. image:: _static/imtt_entry.png
   :width: 800
   :alt: SCRP IMTT data entry
 
-IPs can submit their monthly reporting through the IMTT in four steps:
+IPs can then submit their monthly reporting through the IMTT in four steps:
 
 - Fill in the report details
 - Fill in the indicator result
 - Fill in achievement results if available
 - Submit the indicator result
+
+NB: Please note that it may take up to **24 hours** for the submitted data to appear on the dashboard.
 
 Fill in report details
 ^^^^^^^^^^^^^^^^^^^^^^
