@@ -1,6 +1,6 @@
-============
-Introduction
-============
+=================
+SCRP-MIS Overview
+=================
 
 The SCRP MIS uses **Microsoft Power BI** as its visualization platform and **KoBoToolbox** 
 as its data collection platform. Together, they offer benefits such as:

@@ -7,4 +7,7 @@ SCRP MIS Manual
    :numbered:
    :caption: Contents:
 
+   mis-overview
    data-entry
+   data-visualization
+   support
