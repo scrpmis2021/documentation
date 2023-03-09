@@ -2,7 +2,7 @@
 Data Collection
 ===============
 
-.. image:: _static/kobotoolbox.png
+.. image:: _static/kobotoolbox_new.png
   :width: 800
   :alt: KoBoToolbox
 

@@ -2,29 +2,26 @@
 Lessons Log
 ===========
 
-The SCRP IMTT is a monthly reporting tool that serves as the primary mechanism to operationalize the SCRP commitments to monitoring. 
-It tracks the progress of indicators and is submitted as part of the monthly reporting from IPs.
-
-..  youtube:: ERT1H3oJUn4
-  :width: 700
-  :height: 400
+Lessons Learned are experiences (positive or negative) distilled from past activities that can be 
+taken into account for future actions and behaviors. Learning from Lessons is about reflecting on the experience 
+to identify how things can be done differently in the future.
 
 This guide shows IPs how to:
 
-- Enter indicator results
-- Edit indicator results
-- Delete indicator results
-- Search, sort, and filter indicator results
-- Export indicator results
+- Enter lesson logs
+- Edit lesson logs
+- Delete lesson logs
+- Search, sort, and filter lesson logs
+- Export lesson logs
 
-Accessing The Lessons Log Form
-------------------------------
+Accessing The Lesson Log
+------------------------
 
-Use the link below to access the IMTT via KoBoToolbox:
+Use the link below to access the Lesson Log via KoBoToolbox:
 
-- `https://ee.kobotoolbox.org/x/kuICejSg <https://ee.kobotoolbox.org/x/kuICejSg>`_
+- `https://ee.kobotoolbox.org/x/CnSmhhdK <https://ee.kobotoolbox.org/x/CnSmhhdK>`_
 
-Below are the groups of users can access the IMTT. You can find detailed information about users here: 
+Below are the groups of users can access the Lesson Log. You can find detailed information about users here: 
 :ref:`support:Users With Access to Data Collection Tools`
 
 +-------------------+---------------+--------------+-----------------+-----------------+-----------------+
@@ -34,41 +31,45 @@ Below are the groups of users can access the IMTT. You can find detailed informa
 +-------------------+---------------+--------------+-----------------+-----------------+-----------------+
 | IPs               | Yes           | Yes          | Yes             | No              | Yes             |
 +-------------------+---------------+--------------+-----------------+-----------------+-----------------+
-| World Bank Group  | Yes           | No           | No              | No              | Yes             |
+| World Bank Group  | Yes           | Yes          | Yes             | No              | Yes             |
 +-------------------+---------------+--------------+-----------------+-----------------+-----------------+
 
-Submitting a New Lesson Log
+Submitting New Lesson Logs
 ---------------------------
 .. image:: _static/login.png
   :width: 800
-  :alt: Accessing SCRP IMTT
+  :alt: Accessing SCRP Lesson Log
 
-IPs should first access the IMTT by:
+IPs should first access the Lesson Log by:
 
-#. Visiting the `KoBoToolbox IMTT URL <https://ee.kobotoolbox.org/x/kuICejSg>`_.
+#. Visiting the `KoBoToolbox Lesson Log URL <https://ee.kobotoolbox.org/x/CnSmhhdK>`_.
 #. **Logging in** by entering the username and password shared by the PIU and hit submit button
 
-.. image:: _static/imtt_entry.png
+.. image:: _static/kobo_lesson_log.png
   :width: 800
-  :alt: SCRP IMTT data entry
+  :alt: SCRP Lesson Log data entry
 
-IPs can then submit their monthly reporting through the IMTT in four steps:
+IPs should then fill in the mandatory fields with details regarding the lesson log:
 
-- Fill in the report details
-- Fill in the indicator result
-- Fill in achievement results if available
-- Submit the indicator result
+- LL#
+- Date recorded on
+- Recorded by
+- Lessons category
+- What happened
+- What was the learning
+- Suggested follow-on actions
+- 
 
 NB: Please note that it may take up to **24 hours** for the submitted data to appear on the dashboard.
 
 Editing Lesson Log Records
---------------------------
+----------------------------
 
-IPs can edit their indicator results on KoBoToolbox in case of any errors made during data entry. This can be done in four steps:
+IPs can edit their lesson logs on KoBoToolbox in case of any errors made during data entry. This can be done in four steps:
 
 #. Access the **KoBoToolbox Portal**
-#. **Locate the deployed SCRP-IMTT** KoboToolbox form
-#. **Locate the indicator record** by reporting date and edit it
+#. **Locate the deployed SCRP Lesson Log** KoboToolbox form
+#. **Locate the lesson log record** by ID and edit it
 #. **Submit the edited record**
 
 Access the KoBoToolbox Portal
@@ -80,57 +81,57 @@ Access the KoBoToolbox Portal
 #. Access the **KoBoToolbox Portal** via `this URL <https://kf.kobotoolbox.org/>`_ 
 #. Login by entering the **username and password shared by the PIU** and hit **login button**
 
-Locate the SCRP Lessons Log Form
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. image:: _static/kobo_projects.png
+Locate the SCRP Lesson Log Form
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: _static/kobo_lesson_log_form.png
   :width: 800
   :alt: KoBoToolbox projects page
 
-#. Under **deployed projects**, click on the SCRP-IMTT (Indicator Monthly Tracking Tool)
+#. Under **deployed projects**, click on the SCRP - Lesson log
 #. Select the **Data tab** to view all records that had been previously submitted
 
 Locate & edit the record
 ^^^^^^^^^^^^^^^^^^^^^^^^
-.. image:: _static/kobo_table.png
+.. image:: _static/kobo_lesson_log_edit.png
   :width: 800
   :alt: KoBoToolbox data table page
 
-#. **Locate the indicator record** by the reporting start/end date in the data table
+#. **Locate the lesson log record** by the lesson log ID in the data table
 #. Click on the **edit icon** to open a new tab and amend the record
 #. Hit the **submit button** at the end of the form to save the edited record
 
 
 Validating a record
 ^^^^^^^^^^^^^^^^^^^
-.. image:: _static/kobo_validation.png
+.. image:: _static/kobo_lesson_log_validate.png
   :width: 800
   :alt: KoBoToolbox validating record
 
-#. **Locate the indicator record** by the reporting start/end date in the data table
+#. **Locate the lesson log record** by the lesson log ID in the data table
 #. **Select the record you want to validate** by clicking the checkbox against it
 #. Click the **change status button** and select **"Set status: Approved"** to open a pop-up modal
 #. Confirm validation by clicking the **"UPDATE VALIDATION STATUS" button** to validate the record
 
 Deleting Lesson Log Records
 ---------------------------
-.. image:: _static/kobo_delete.png
+.. image:: _static/kobo_lesson_log_delete.png
   :width: 800
   :alt: KoBoToolbox record deletion
 
-#. :ref:`indicator-tracking-tool:Access the KoBoToolbox Portal`
-#. :ref:`indicator-tracking-tool:Locate the SCRP-IMTT Form`
+#. :ref:`lessons-log:Access the KoBoToolbox Portal`
+#. :ref:`lessons-log:Locate the SCRP Lesson Log Form`
 #. **Locate the record** and select it by checking the checkbox
 #. Click the **"Delete" button**
 #. Confirm deletion and click the "**Delete Selected**" button to delete the record/s
 
 Searching, Sorting, and Filtering Lesson Log Records
 ----------------------------------------------------
-.. image:: _static/kobo_search.png
+.. image:: _static/kobo_lesson_log_search.png
   :width: 800
   :alt: KoBoToolbox record search
 
-#. :ref:`indicator-tracking-tool:Access the KoBoToolbox Portal`
-#. :ref:`indicator-tracking-tool:Locate the SCRP-IMTT Form`
+#. :ref:`lessons-log:Access the KoBoToolbox Portal`
+#. :ref:`lessons-log:Locate the SCRP Lesson Log Form`
 #. Search a column by typing your query in the **search fields**
 #. Sort a column by clicking its title and selecting the **type of sorting**
 #. Filter a column by selecting its **"Show All" drop-down button**
@@ -141,8 +142,8 @@ Exporting Lesson Log Records
   :width: 800
   :alt: KoBoToolbox records export
 
-#. :ref:`indicator-tracking-tool:Access the KoBoToolbox Portal`
-#. :ref:`indicator-tracking-tool:Locate the SCRP-IMTT Form`
+#. :ref:`lessons-log:Access the KoBoToolbox Portal`
+#. :ref:`lessons-log:Locate the SCRP Lesson Log Form`
 #. Select the **"Downloads" tab**
 #. Choose **export options** e.g. export type - **XLS, CSV, GeoJSON, SPSS, ZIP (Media Attachments)**
 #. Ensure the default export settings **(Official Data Export)** is selected
